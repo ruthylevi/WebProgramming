@@ -75,3 +75,5 @@ const { workdata } = await axios.get('https://gist.githubusercontent.com/robherl
       whereDoTheyWork: whereDoTheyWork,
       findTheHacker: findTheHacker
   }
+
+  getPersonById(50);
