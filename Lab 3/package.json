@@ -9,6 +9,6 @@
   "author": "Ruthy Levi 10407526",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   }
 }
